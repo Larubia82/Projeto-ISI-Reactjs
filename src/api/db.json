@@ -1,0 +1,18 @@
+{
+  "cadastro": [
+    {
+      "nome": "carla",
+      "Telefone": "234476576",
+      "email": "oi@oi.com",
+      "active": true,
+      "id": 2
+    },
+    {
+      "nome": "ydalia",
+      "Telefone": "1234567",
+      "email": "oi@oi.com",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
